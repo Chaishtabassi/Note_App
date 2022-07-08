@@ -33,10 +33,7 @@ Splashscreen
  
  Imagescreen: ![Imagescreen](https://user-images.githubusercontent.com/95671276/166744516-c912b74b-ae0c-46db-bcde-9cbecf70674c.png)
 
-#### NOTE: 
 
-Its not completed due to time limitations . If you give me some more time then i will definately complete it .
-I made one project related to food if you want then I will share the link of that project also . 
 
 
 
